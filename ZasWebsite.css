@@ -55,12 +55,15 @@ header a:hover{
   min-height: 450px;
   background:url('tre.jpg') no-repeat 0;
   text-align: center;
-  color: #72FF47;
+  color: #133337;
 }
 #showcase h1{
   margin-top: 240px;
   font-size:55px;
   margin-bottom: 10px;
+}
+#ZAS{
+color:red;
 }
 #showcase p{
   font-size: 20px;
