@@ -53,6 +53,6 @@ header a:hover{
 }
 #showcase{
   min-height: 420px;
-  min-width: 100%;
+  min-width: 1000px;
   background:url('tre.jpg') no-repeat 0;
 }
