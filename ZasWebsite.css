@@ -1,0 +1,57 @@
+body{
+  font-family: Arial, Helvetica, sans-sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 0;
+  margin: 0;
+  background-color: red;
+}
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+ul{
+  padding: 0;
+  margin: 0;
+}
+header{
+  background:#35424a;
+  color: #ffffff;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: #e8491d 3px solid;
+}
+header a{
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+header li{
+  float: left;
+  display: inline;
+  padding: 0 20px 0 20px;
+}
+header #branding {
+  float: left;
+}
+header #branding h1{
+  margin: 0;
+}
+header nav {
+  float: left;
+  margin-top: 10px;
+}
+header .highlight, header .current a{
+  color:#e8491d;
+  font-weight: bold;
+}
+header a:hover{
+  color: #cccccc;
+  font-weight: bold;
+}
+#showcase{
+  min-height: 400px;
+  background:url('webr.png') no-repeat;
+}
