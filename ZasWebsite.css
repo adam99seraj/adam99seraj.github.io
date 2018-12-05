@@ -53,5 +53,5 @@ header a:hover{
 }
 #showcase{
   min-height: 400px;
-  background:url('webr.png') no-repeat;
+  background:url('webr.png') no-repeat 0 -400px;
 }
