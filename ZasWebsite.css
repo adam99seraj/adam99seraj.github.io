@@ -99,8 +99,8 @@ header a:hover{
 }
 #boxes .box{
   float: left;
-  width: 35%;
-  padding: 20px;
+  width: 30%;
+  padding: 15px;
   text-align: center;
 }
 #boxes .box img{
