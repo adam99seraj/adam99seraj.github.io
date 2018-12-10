@@ -13,7 +13,7 @@ body{
 }
 .button_1{
   height: 38px;
-  background: #e8491d;
+  background: #fafa67;
   border: 0;
   padding-left: 20px;
   padding-right: 20px
@@ -32,11 +32,11 @@ ul{
   margin: 0;
 }
 header{
-  background:#35424a;
+  background:#a3affa;
   color: #ffffff;
   padding-top: 30px;
   min-height: 70px;
-  border-bottom: #e8491d 3px solid;
+  border-bottom: #ff491d 3px solid;
 }
 header a{
   color: #ffffff;
@@ -60,18 +60,18 @@ header nav {
   margin-top: 10px;
 }
 header .highlight, header .current a{
-  color:#e8491d;
+  color:#ffff88;
   font-weight: bold;
 }
 header a:hover{
-  color: #cccccc;
+  color: #cccccf;
   font-weight: bold;
 }
 #showcase{
   min-height: 450px;
   background:url('red.jpg') no-repeat 0;
   text-align: center;
-  color: #FFD2E2;
+  color: #FFDff2;
 }
 #showcase h1{
   margin-top: 240px;
@@ -87,7 +87,7 @@ header a:hover{
 #newsletter {
   padding: 15px;
   color: #ffffff;
-  background: #35424a;
+  background: #ff424a;
 }
 #newsletter h1{
   float: left;
@@ -127,5 +127,17 @@ footer{
   margin-top: 20px;
   color: #ffffff;
   background-color: #e8491d;
+  text-align: center;
+  justify-content: space-around;
+  display: block;
+}
+
+footer > .p{
+  display: flex;
+  justify-content: space-around;
+}
+
+footer > .p > .asd{
+  margin: auto;
   text-align: center;
 }
