@@ -4,7 +4,7 @@ body{
   line-height: 1.5;
   padding: 0;
   margin: 0;
-  background-color: #0D6CA6;
+  background-color: #ffffff;
 }
 .container{
   width: 80%;
@@ -69,7 +69,7 @@ header a:hover{
 }
 #showcase{
   min-height: 450px;
-  background:url('red.jpg') no-repeat 0;
+  background:url('merc.jpg') no-repeat 0;
   text-align: center;
   color: #FFDff2;
 }
