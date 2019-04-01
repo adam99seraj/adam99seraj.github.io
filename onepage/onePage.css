@@ -34,6 +34,9 @@ cursor: pointer;
 color: white;
 cursor: pointer;
 }
+#k{
+  color: white;
+}
 
 #intro2{
   color: white;
@@ -49,7 +52,7 @@ ul > li > a  {
 }
 
 .parallax{
-  background-image: url("ff1.jpg");
+  background-image: url("meran.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
@@ -57,7 +60,7 @@ ul > li > a  {
   min-height: 657px;
 }
 .parallax2{
-  background-image: url("lpp.jpg");
+  background-image: url("esp.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
@@ -65,7 +68,7 @@ ul > li > a  {
   min-height: 600px;
 }
 .parallax3{
-  background-image: url("amg.jpg");
+  background-image: url("petr.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
@@ -146,7 +149,7 @@ form {
   overflow: hidden;
 }
 .star{
-  color: blue;
+  color: #fffff0;
 }
 
 p span {
@@ -319,7 +322,12 @@ i {
     width: 140px;
     height: 40px;
   }
-
+#intro3{
+  color: black;
+}
+#k{
+  color: black;
+}
 }
 @media screen and (max-width: 1048px) {
 #par1{
@@ -333,12 +341,15 @@ i {
 }
 #intro{
   font-size: 28px;
+  color: white;
 }
 #intro1{
   font-size: 28px;
+  color: white;
 }
 #intro2{
   font-size: 28px;
+  color: white;
 }
 #intro3{
   font-size: 28px;
@@ -347,6 +358,8 @@ i {
 height: 470px;
 
 }
+#text3{
+height: 700px;
 
-
+}
 }
